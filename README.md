@@ -1,0 +1,1 @@
+# blugrid-java-core-pom
